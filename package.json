@@ -1,0 +1,14 @@
+{
+  "name": "dronelink",
+  "version": "1.0.0",
+  "description": "An easy UI to connect and download memory cards from DJI Mini 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SimpliWorx LLC",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0"
+  }
+}
